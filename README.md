@@ -32,13 +32,13 @@
 ### WorkBuddy
 
 ```bash
-git clone https://github.com/你的用户名/jianfei-coach.git ~/.workbuddy/skills/jianfei-coach
+git clone https://github.com/duxingzhe1979/jianfei-coach.git ~/.workbuddy/skills/jianfei-coach
 ```
 
 ### Claude Code
 
 ```bash
-git clone https://github.com/你的用户名/jianfei-coach.git ~/.claude/skills/jianfei-coach
+git clone https://github.com/duxingzhe1979/jianfei-coach.git ~/.claude/skills/jianfei-coach
 ```
 
 也可以下载 zip 解压后放进上面的 `skills/` 目录，重启客户端生效。
